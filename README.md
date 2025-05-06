@@ -21,4 +21,4 @@ JavaScript
 
 OMDb API (or similar) for fetching movie data
 
-Live Demo = [Movie_App](http://127.0.0.1:5500/index.html)
+Live Demo = [Movie_App](https://50projects50days.com/projects/movie-app/)
